@@ -8,8 +8,8 @@
 // @downloadURL  https://github.com/davidnewcomb/greasemonkey_imdb_cast_popup/master/imdb-cast-popup.user.js
 // @match        http://www.imdb.com/title/tt*
 // @match        http://www.imdb.com/find*
-// @match        http://localhost/imdb/find*
-// @match        http://localhost/title/tt*
+// @ match        http://localhost/imdb/find*
+// @ match        http://localhost/title/tt*
 // @license      The MIT License; https://opensource.org/licenses/MIT
 // ==/UserScript==
 
